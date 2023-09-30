@@ -11,6 +11,25 @@
   </kbd>
 </p>
 
+   
+<!-- Outer collapsible -->  
+<details>
+   <summary><b>↕️ Expand for more!</b></summary>
+  
+   <br>
+   
+<!-- About Section -->
+<details>
+  <summary><b>👤 About</b></summary>
+    <p>
+      <img align="right" width="250" src="assets/profile.jpg" alt="Martin Dudi" />
+      
+<blockquote>
+
+I'm a junior data scientist with a background in actuarial science. My educational foundation in actuarial science equips me with strong analytical and mathematical skills, which I leverage to dive into the world of data science. I'm passionate about harnessing data to uncover meaningful insights and make data-driven decisions. As I continue to grow in my data science journey, I'm eager to apply my knowledge and contribute to solving real-world problems through data analysis and machine learning.
+
+</blockquote>
+
 <!---
 Dudimath/Dudimath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
