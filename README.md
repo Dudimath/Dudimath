@@ -5,7 +5,9 @@
    <kbd>
   <a href="https://twitter.com/Actuary Dudi" title="Twitter - @Actuary Dudi"><img src="https://img.shields.io/badge/-@Actuary Dudi-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dudi" title="LinkedIn - Martin Dudi"><img src="https://img.shields.io/badge/-Martin Dudi-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-
+   <a href="https://www.facebook.com/martin.dudi.355?mibextid=ZbWKwL" title="Facebook - Martin Dudi"><img src="https://img.shields.io/badge/-Martin Dudi-0072b1?style=flat&logo=Facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/dudimath" title="Instagram - dudimath"><img src="https://img.shields.io/badge/-dudimath-0072b1?style=flat&logo=Instagram&logoColor=white" /></a>
+   
   </kbd>
 </p>
 
