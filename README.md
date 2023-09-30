@@ -22,7 +22,7 @@
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-      <img align="right" width="250" src="assets/profile.jpg" alt="Martin Dudi" />
+      <img align="right" width="250" src="https://dudimath.github.io/Martin-Dudi/images/cop.jpg" alt="Martin Dudi" />
       
 <blockquote>
 
