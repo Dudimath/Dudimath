@@ -28,6 +28,8 @@
 
 I'm a junior data scientist with a background in actuarial science. My educational foundation in actuarial science equips me with strong analytical and mathematical skills, which I leverage to dive into the world of data science. I'm passionate about harnessing data to uncover meaningful insights and make data-driven decisions. As I continue to grow in my data science journey, I'm eager to apply my knowledge and contribute to solving real-world problems through data analysis and machine learning.
 
+When I'm not at the keyboard, I like swimming, watching football and hanging out with friends.
+
 </blockquote>
 
 <!---
