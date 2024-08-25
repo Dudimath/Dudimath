@@ -83,7 +83,11 @@
 
 <!-- Snek -->   
 <p align="center">
-<a href="https://gitstar-ranking.com/Dudimath" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Dudimath/Dudimath/master/assets/github-snake.svg" /></a>
+![github contribution grid snake animation](https://raw.githubusercontent.com/Dudimath/Dudimath/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Dudimath/Dudimath/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+![](https://komarev.com/ghpvc/?username=Dudimath)
+
 </p>
 
 </details>
