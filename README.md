@@ -76,3 +76,14 @@
     <img src="https://visitcount.itsvg.in/api?id=Dudimath&icon=5&color=7" alt="Profile Views" />
   </a>
 </div>
+</p>
+</details>
+
+<!-- Snek -->   
+<p align="center">
+<a href="https://gitstar-ranking.com/Dudimath" title="Snek 🐍"><img width="500" src="https://raw.githubusercontent.com/Lissy93/Lissy93/master/assets/github-snake.svg" /></a>
+</p>
+
+</details>
+
+<p align="center"><a href="https://010000010110110001101001011000110110100101100001.com/"><sup><sub>010000010110110001101001011000110110100101100001.com</sub></sup></a></p>
