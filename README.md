@@ -2,13 +2,10 @@
     <img align="right" src="https://komarev.com/ghpvc/?username=Dudimath&label=Profile%20views&color=0e75b6&style=flat" alt="Dudimath" />
 </div>
 
-<h1 align="center">Hello <img src="./emojis/hi.gif" width="28" alt="hi" />, welcome to my data-driven world!</h1>
+<h1 align="center">Hello <img src="./emojis/hi.gif" width="24" alt="hi" />, welcome to my data-driven world!</h1>
 
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=24&duration=3000&pause=500&center=true&width=970&height=80&lines=Actuarial+Analyst+%7C+Data+Scientist+%7C+Turning+numbers+into+insights;Data+Architect+%7C+SQL+%26+Big+Data+%7C+Hadoop+%7C+BigQuery;AI+Automation+Expert+%7C+PowerBI+%26+Excel+Dashboards;Microsoft+365+Dynamics+Specialist+%7C+Project+Management;Career+Coach+%7C+Data+Migration+Expert+%7C+Proposal+Writer" alt="Martin Dudi Expertise" />
-</p>
-<p align="center">  
-    <img src="https://github-trophies.vercel.app/?username=Dudimath&no-frame=true&column=6&row=1" alt="achievements" />
 </p>
 
 <ul align="left">
