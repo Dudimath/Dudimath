@@ -1,48 +1,121 @@
-<!-- Title -->
-<h1 align="center" title="...and I'm happy to see you here :)">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Dudi</h1>
-<!-- Socials -->
-<p align="center">
-   <kbd>
-  <a href="https://twitter.com/Actuary Dudi" title="Twitter - @Actuary Dudi"><img src="https://img.shields.io/badge/-@Actuary Dudi-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/dudi" title="LinkedIn - Martin Dudi"><img src="https://img.shields.io/badge/-Martin Dudi-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
-   <a href="https://www.facebook.com/martin.dudi.355?mibextid=ZbWKwL" title="Facebook - Martin Dudi"><img src="https://img.shields.io/badge/-Martin Dudi-0072b1?style=flat&logo=Facebook&logoColor=white" /></a>
-  <a href="https://www.instagram.com/dudimath" title="Instagram - dudimath"><img src="https://img.shields.io/badge/-dudimath-0072b1?style=flat&logo=Instagram&logoColor=white" /></a>
-   
-  </kbd>
-</p>
+<div>
+    <img align="right" src="https://komarev.com/ghpvc/?username=Dudimath&label=Profile%20views&color=0e75b6&style=flat" alt="Dudimath" />
+</div>
 
-# $$📈 Data Analyst/ML Engineer:$$
-
-## $$🔍 Tech Toolkit$$
+<h1 align="center">Hello <img src="./emojis/hi.gif" width="28" alt="hi" />, welcome to my data-driven world!</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue" alt="mlflow" />
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power Bi" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-  <img src="https://img.shields.io/badge/VBA%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA Excel" />
-  <img src="https://img.shields.io/badge/Flask-%23000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Actuarial+Analyst+%7C+Data+Scientist+%7C+Transforming+numbers+into+actionable+insights;Data+Architect+%7C+SQL+%26+Big+Data+%7C+Hadoop%2C+BigQuery%2C+Data+Warehousing;AI+Automation+Expert+%7C+PowerBI+%26+Excel+Dashboards+%7C+Streamlining+business+workflows;Microsoft+365+Dynamics+Specialist+%7C+Career+Coach+%7C+Project+Management+Pro" alt="Martin Dudi Expertise" />
+</p>
+<p align="center">  
+    <img src="https://github-trophies.vercel.app/?username=smusenko&no-frame=true&column=6&row=1" alt="achievements" />
 </p>
 
-# $$📊 GitHub Stats$$
+<ul align="left">
+  <li>
+    &nbsp;<img src="./emojis/seed.gif" width="22" valign="middle" alt="seed" />&nbsp;&nbsp;<b>I'm currently exploring</b> advanced predictive modeling, AI-driven automation, and actuarial risk frameworks
+  </li>
+  <li>
+    &nbsp;<img src="./emojis/shake.gif" width="22" valign="middle" alt="shake" />&nbsp;&nbsp;<b>I'm looking to collaborate on</b> core banking implementation & data migration projects, business intelligence solutions, and AI workflow automation
+  </li>
+  <li>
+    <img src="./emojis/chat.gif" width="30" valign="middle" alt="chat" /> <b>Ask me about</b> actuarial modeling, PowerBI dashboards, SQL optimization, data pipeline design, or career development strategies
+  </li>
+  <li>
+    &nbsp;<img src="./emojis/laugh.gif" width="22" valign="middle" alt="laugh" />&nbsp;&nbsp;<b>Fun fact:</b> I've automated so many reports that Excel now opens itself when I enter the room!
+  </li>
+</ul>
+
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="48" height="48" alt="SQL" /><br>SQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br>SQLite
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" width="48" height="48" alt="Hadoop" /><br>Hadoop
+    </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="40" height="40" alt="Excel" /><br>Excel
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="48" height="48" alt="Python" /><br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.r-project.org/logo/Rlogo.svg" width="40" height="40" alt="R" /><br>R
+    </td>
+    <td align="center" width="100">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="PowerBI" /><br>PowerBI
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" width="48" height="48" alt="Django" /><br>Django
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" /><br>MySQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="40" alt="REST API" /><br>REST API
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.vectorlogo.zone/logos/google_bigquery/google_bigquery-icon.svg" width="40" height="40" alt="BigQuery" /><br>BigQuery
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.theanalysisfactor.com/wp-content/uploads/2022/09/SPSS-blog-150x150.png" width="40" height="40" alt="SPSS" /><br>SPSS
+    </td>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="48" height="48" alt="AWS" /><br>AWS
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.prod.website-files.com/655b60964be1a1b36c746790/655b60964be1a1b36c746d37_62f25e04150fef0528fff62f_62d94817745ca71750f7db9b_MicrosoftBusinessCentral%252520(1).png" width="40" height="40" alt="Dynamics" /><br>Dynamics 365
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" /><br>Docker
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" /><br>Jupyter
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" /><br>NumPy
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" /><br>Pandas
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.zartis.com/wp-content/uploads/2024/10/ai-agents.gif" width="48" height="48" alt="AI" /><br>Agents
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.favpng.com/8/1/22/mathematics-mathematical-finance-derivative-actuarial-science-function-png-favpng-XdVrAsnWqPSChFzALHQAQZzw7_t.jpg" width="40" height="40" alt="Actuarial" /><br>Actuarial
+    </td>
+    <td align="center" width="100">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKoQfXjUsJKkl08qIY8BisnvyeVnU4LXTt5g&s" width="48" height="48" alt="PM" /><br>Project Mgmt
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=smusenko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Data+Driven+Development+Activity"  width="100%" alt="activity"/>
+</p>
+
+<p align="center">
+     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
+</p>
+
+# $$GitHub Stats$$
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dudimath&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
@@ -53,34 +126,8 @@
   
 </div>
 
-
-## $$🏅 GitHub Trophies$$
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dudimath&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
 ## $$💡 Inspiration of the Day$$ ~Dudimath~
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote" />
 </div>
 
-## $$🚀 Top Contributed Repositories$$
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Dudimath&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
-</div>
-
-## $$👀 Profile Views$$
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Dudimath&icon=5&color=7" alt="Profile Views" />
-  </a>
-</div>
-</p>
-</details>
-
-<!-- Snek -->   
-
-</details>
