@@ -115,7 +115,7 @@
      <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=140&section=footer"/>
 </p>
 
-# $$GitHub Stats$$
+## $$GitHub Stats$$
 <div align="center">
   
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dudimath&theme=merko&hide_border=false&include_all_commits=true&count_private=true)
