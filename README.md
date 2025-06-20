@@ -7,7 +7,10 @@
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=24&duration=3000&pause=500&center=true&width=970&height=80&lines=Actuarial+Analyst+%7C+Data+Scientist+%7C+Turning+numbers+into+insights;Data+Architect+%7C+SQL+%26+Big+Data+%7C+Hadoop+%7C+BigQuery;AI+Automation+Expert+%7C+PowerBI+%26+Excel+Dashboards;Microsoft+365+Dynamics+Specialist+%7C+Project+Management;Career+Coach+%7C+Data+Migration+Expert+%7C+Proposal+Writer" alt="Martin Dudi Expertise" />
 </p>
-
+<!-- Blue line divider -->
+<div align="center">
+  <div style="border-top: 3px solid #0e75b6; width: 80%; margin: 5px auto 15px;"></div>
+</div>
 <ul align="left">
   <li>
     &nbsp;<img src="./emojis/seed.gif" width="22" valign="middle" alt="seed" />&nbsp;&nbsp;<b>I'm currently exploring</b> advanced predictive modeling, AI-driven automation, and actuarial risk frameworks
