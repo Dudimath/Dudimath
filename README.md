@@ -5,10 +5,10 @@
 <h1 align="center">Hello <img src="./emojis/hi.gif" width="28" alt="hi" />, welcome to my data-driven world!</h1>
 
 <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=26&duration=3000&pause=500&center=true&random=true&width=970&height=64&lines=Actuarial+Analyst+%7C+Data+Scientist+%7C+Transforming+numbers+into+actionable+insights;Data+Architect+%7C+SQL+%26+Big+Data+%7C+Hadoop%2C+BigQuery%2C+Data+Warehousing;AI+Automation+Expert+%7C+PowerBI+%26+Excel+Dashboards+%7C+Streamlining+business+workflows;Microsoft+365+Dynamics+Specialist+%7C+Career+Coach+%7C+Project+Management+Pro" alt="Martin Dudi Expertise" />
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=800&size=24&duration=3000&pause=500&center=true&width=970&height=80&lines=Actuarial+Analyst+%7C+Data+Scientist+%7C+Turning+numbers+into+insights;Data+Architect+%7C+SQL+%26+Big+Data+%7C+Hadoop+%7C+BigQuery;AI+Automation+Expert+%7C+PowerBI+%26+Excel+Dashboards;Microsoft+365+Dynamics+Specialist+%7C+Project+Management;Career+Coach+%7C+Data+Migration+Expert+%7C+Proposal+Writer" alt="Martin Dudi Expertise" />
 </p>
 <p align="center">  
-    <img src="https://github-trophies.vercel.app/?username=smusenko&no-frame=true&column=6&row=1" alt="achievements" />
+    <img src="https://github-trophies.vercel.app/?username=Dudimath&no-frame=true&column=6&row=1" alt="achievements" />
 </p>
 
 <ul align="left">
@@ -108,7 +108,7 @@
 </table>
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=smusenko&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Data+Driven+Development+Activity"  width="100%" alt="activity"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dudimath&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Data+Driven+Development+Activity"  width="100%" alt="activity"/>
 </p>
 
 <p align="center">
